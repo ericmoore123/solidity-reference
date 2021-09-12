@@ -1,0 +1,26 @@
+{
+  "name": "solidity-reference",
+  "version": "1.0.0",
+  "description": "Solidity Reference Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmoore123/solidity-reference.git"
+  },
+  "keywords": [
+    "Solidity",
+    "NodeJS",
+    "JavaScript",
+    "Ethereum",
+    "Network"
+  ],
+  "author": "Eric Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericmoore123/solidity-reference/issues"
+  },
+  "homepage": "https://github.com/ericmoore123/solidity-reference#readme"
+}
